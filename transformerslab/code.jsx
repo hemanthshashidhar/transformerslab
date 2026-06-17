@@ -29,7 +29,7 @@ Transformers solve both by operating on the full sequence at once using self-att
       options: [
         "Using more layers in neural networks",
         "Replacing recurrence with self-attention for sequence modeling",
-        "Introducing dropout regularization",
+        "Introducing dropout  regularization",
         "Using larger training datasets",
       ],
       answer: 1,
